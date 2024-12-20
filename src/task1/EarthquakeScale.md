@@ -37,5 +37,5 @@ Bu proje, kullanıcıdan alınan deprem büyüklüğüne göre uygun bir tanıml
 - Pseudocode veya algoritmadaki akıştan faydalanarak, programın temel mantığını uygulayın.
 - Proje, basit bir konsol uygulaması olarak geliştirilmelidir.
 
-![DepremOlcegi.gif](DepremOlcegi.gif)
+![DepremOlcegi.gif](EarthquakeScale.gif)
 

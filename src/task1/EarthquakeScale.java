@@ -2,12 +2,12 @@ package task1;
 
 import java.util.Scanner;
 
-public class DepremOlcegi {
+public class EarthquakeScale {
     public static void main(String[] args) {
 
-        Scanner oku = new Scanner(System.in);
-        System.out.print("Deprem büyüklüğü (magnitude) = ");
-        double magnitude = oku.nextDouble();
+        Scanner read = new Scanner(System.in);
+        System.out.print("Deprem büyüklüğü (Earthquake magnitude) = ");
+        double magnitude = read.nextDouble();
 
         if (0 <= magnitude && magnitude < 2.0) System.out.println("Micro - Mikro");
         else if (0 <= magnitude && magnitude < 3.0) System.out.println("Very minor - Çok küçük");
@@ -18,7 +18,7 @@ public class DepremOlcegi {
         else if (0 <= magnitude && magnitude < 8.0) System.out.println("Major - Büyük");
         else if (0 <= magnitude && magnitude < 10.0) System.out.println("Great - Çok Büyük");
         else if (10.0 <= magnitude && magnitude <= 15.0) System.out.println("Meteoric - Meteorik");
-        else System.out.println("Hatalı giriş");
+        else System.out.println("Incorrect entry");
 
     }
 }

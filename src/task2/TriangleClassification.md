@@ -20,4 +20,4 @@ Bu proje, kullanıcının girdiği üç kenar uzunluğuna göre bir üçgenin t�
 
 Bu program, kullanıcının girdiği üç kenar uzunluklarına göre üçgenin türünü ve geçerliliğini belirleyerek sonucu konsolda göstermektedir. Eğer kullanıcı geçerli bir üçgen tanımazsa veya üçgen belirlenen tür kriterlerine uymazsa, uygun bir hata mesajı gösterilir.
 
-![Ucgen.gif](Ucgen.gif)
+![Ucgen.gif](Triangle.gif)

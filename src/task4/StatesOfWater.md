@@ -27,4 +27,4 @@ Sıcaklık 0 °C'nin altında ise buzdur, dolayısıyla katıdır. 100 °C'nin �
         - Eğer `su_sicakligi` 25 ise, çıktı "Su sıvı haldedir."
         - Eğer `su_sicakligi` 105 ise, çıktı "Su gaz halindedir."
 
-![SuyunHalleri.gif](SuyunHalleri.gif)
+![SuyunHalleri.gif](StatesOfWater.gif)

@@ -62,4 +62,4 @@ Aylık faturayı hesapla:
 
 Aylık elektrik faturasını göster.
 
-![ElektrikFatura.gif](ElektrikFatura.gif)
+![ElektrikFatura.gif](ElectricityBill.gif)

@@ -38,7 +38,7 @@ toplam_maas = sabit_maas + prim;
 ```
 4. **Toplam Maaşı Yazdır** 
 
-![MaasHesabi.gif](MaasHesabi.gif)
+![MaasHesabi.gif](SalaryAccount.gif)
 
 
 
